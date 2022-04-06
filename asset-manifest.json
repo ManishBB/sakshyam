@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sakshyam/static/css/main.60586571.css",
+    "main.js": "/sakshyam/static/js/main.d2e45958.js",
+    "static/js/787.2f856eb8.chunk.js": "/sakshyam/static/js/787.2f856eb8.chunk.js",
+    "static/media/aboutus.svg": "/sakshyam/static/media/aboutus.84e2a2d095b040d1bbeac98ad041181d.svg",
+    "static/media/products.svg": "/sakshyam/static/media/products.c9c18e3c8db78aeca82f24b5ed3dafa5.svg",
+    "static/media/contactus.svg": "/sakshyam/static/media/contactus.13c80369250d8f0aff509318d9d484eb.svg",
+    "static/media/business.svg": "/sakshyam/static/media/business.c09fbd5e03a291736259006da7c40e79.svg",
+    "index.html": "/sakshyam/index.html",
+    "main.60586571.css.map": "/sakshyam/static/css/main.60586571.css.map",
+    "main.d2e45958.js.map": "/sakshyam/static/js/main.d2e45958.js.map",
+    "787.2f856eb8.chunk.js.map": "/sakshyam/static/js/787.2f856eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60586571.css",
+    "static/js/main.d2e45958.js"
+  ]
+}
